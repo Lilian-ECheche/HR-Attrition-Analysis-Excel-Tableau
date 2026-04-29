@@ -1,12 +1,10 @@
-hr-analytics-attrition-excel-project/
+hr-analytics-attrition-excel-project
 │
-├── data/
+├─ data
 │   └── hr_dataset.xlsx   (raw data if allowed)
 │
-├── dashboard/
+├── dashboard
 │   └── attrition_dashboard.xlsx   (your main Excel file)
-│
-├── screenshots/
 │   ├── overview.png
 │   ├── attrition_by_jobrole.png
 │   ├── attrition_by_overtime.png
